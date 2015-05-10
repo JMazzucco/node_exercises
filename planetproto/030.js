@@ -23,7 +23,6 @@ claim(vehicle.motors, 4);
 // -> What is `robot.motors`?
 claim(robot.motors, 4);
 
-
 // ------------------------------------------------
 // Common JS exports for verification, don't modify
 module.exports = {
