@@ -11,7 +11,6 @@ var Robot = {
 };
 
 
-
 // ------------------------------------------------
 // Common JS exports for verification, don't modify
 module.exports = {
